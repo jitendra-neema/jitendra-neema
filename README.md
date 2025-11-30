@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jitendra-neema
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently progressing towards product management.
 - 💞️ I’m looking to collaborate on webapplication development projects
 - 📫 How to reach me jitendra.neema.8@gmail.com
 
